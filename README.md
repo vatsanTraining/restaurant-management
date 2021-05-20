@@ -1,4 +1,4 @@
-This is an Example for Micro Servies 
+This is an Example for Micro Services 
 
 This Example is Based on Restaurant Managment Domain
 
